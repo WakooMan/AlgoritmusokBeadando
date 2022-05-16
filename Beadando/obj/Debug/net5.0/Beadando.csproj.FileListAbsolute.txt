@@ -1,0 +1,16 @@
+D:\Repos\AlgoritmusokBeadando\Beadando\bin\Debug\net5.0\Beadando.exe
+D:\Repos\AlgoritmusokBeadando\Beadando\bin\Debug\net5.0\Beadando.deps.json
+D:\Repos\AlgoritmusokBeadando\Beadando\bin\Debug\net5.0\Beadando.runtimeconfig.json
+D:\Repos\AlgoritmusokBeadando\Beadando\bin\Debug\net5.0\Beadando.runtimeconfig.dev.json
+D:\Repos\AlgoritmusokBeadando\Beadando\bin\Debug\net5.0\Beadando.dll
+D:\Repos\AlgoritmusokBeadando\Beadando\bin\Debug\net5.0\Beadando.pdb
+D:\Repos\AlgoritmusokBeadando\Beadando\obj\Debug\net5.0\Beadando.csproj.AssemblyReference.cache
+D:\Repos\AlgoritmusokBeadando\Beadando\obj\Debug\net5.0\Beadando.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\AlgoritmusokBeadando\Beadando\obj\Debug\net5.0\Beadando.AssemblyInfoInputs.cache
+D:\Repos\AlgoritmusokBeadando\Beadando\obj\Debug\net5.0\Beadando.AssemblyInfo.cs
+D:\Repos\AlgoritmusokBeadando\Beadando\obj\Debug\net5.0\Beadando.csproj.CoreCompileInputs.cache
+D:\Repos\AlgoritmusokBeadando\Beadando\obj\Debug\net5.0\Beadando.dll
+D:\Repos\AlgoritmusokBeadando\Beadando\obj\Debug\net5.0\refint\Beadando.dll
+D:\Repos\AlgoritmusokBeadando\Beadando\obj\Debug\net5.0\Beadando.pdb
+D:\Repos\AlgoritmusokBeadando\Beadando\obj\Debug\net5.0\Beadando.genruntimeconfig.cache
+D:\Repos\AlgoritmusokBeadando\Beadando\obj\Debug\net5.0\ref\Beadando.dll
