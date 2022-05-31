@@ -1,20 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Repos\\AlgoritmusokBeadando\\Beadando\\Beadando.csproj": {}
+    "E:\\Repos\\AlgoritmusokBeadando\\Beadando\\Beadando.csproj": {}
   },
   "projects": {
-    "D:\\Repos\\AlgoritmusokBeadando\\Beadando\\Beadando.csproj": {
+    "E:\\Repos\\AlgoritmusokBeadando\\Beadando\\Beadando.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Repos\\AlgoritmusokBeadando\\Beadando\\Beadando.csproj",
+        "projectUniqueName": "E:\\Repos\\AlgoritmusokBeadando\\Beadando\\Beadando.csproj",
         "projectName": "Beadando",
-        "projectPath": "D:\\Repos\\AlgoritmusokBeadando\\Beadando\\Beadando.csproj",
-        "packagesPath": "C:\\Users\\Viktor\\.nuget\\packages\\",
-        "outputPath": "D:\\Repos\\AlgoritmusokBeadando\\Beadando\\obj\\",
+        "projectPath": "E:\\Repos\\AlgoritmusokBeadando\\Beadando\\Beadando.csproj",
+        "packagesPath": "C:\\Users\\vitya\\.nuget\\packages\\",
+        "outputPath": "E:\\Repos\\AlgoritmusokBeadando\\Beadando\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Viktor\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\vitya\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -54,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1,0 +1,16 @@
+E:\Repos\AlgoritmusokBeadando\FelhasznaloBaratBeadando\bin\Debug\net5.0\FelhasznaloBaratBeadando.exe
+E:\Repos\AlgoritmusokBeadando\FelhasznaloBaratBeadando\bin\Debug\net5.0\FelhasznaloBaratBeadando.deps.json
+E:\Repos\AlgoritmusokBeadando\FelhasznaloBaratBeadando\bin\Debug\net5.0\FelhasznaloBaratBeadando.runtimeconfig.json
+E:\Repos\AlgoritmusokBeadando\FelhasznaloBaratBeadando\bin\Debug\net5.0\FelhasznaloBaratBeadando.runtimeconfig.dev.json
+E:\Repos\AlgoritmusokBeadando\FelhasznaloBaratBeadando\bin\Debug\net5.0\FelhasznaloBaratBeadando.dll
+E:\Repos\AlgoritmusokBeadando\FelhasznaloBaratBeadando\bin\Debug\net5.0\FelhasznaloBaratBeadando.pdb
+E:\Repos\AlgoritmusokBeadando\FelhasznaloBaratBeadando\obj\Debug\net5.0\FelhasznaloBaratBeadando.csproj.AssemblyReference.cache
+E:\Repos\AlgoritmusokBeadando\FelhasznaloBaratBeadando\obj\Debug\net5.0\FelhasznaloBaratBeadando.GeneratedMSBuildEditorConfig.editorconfig
+E:\Repos\AlgoritmusokBeadando\FelhasznaloBaratBeadando\obj\Debug\net5.0\FelhasznaloBaratBeadando.AssemblyInfoInputs.cache
+E:\Repos\AlgoritmusokBeadando\FelhasznaloBaratBeadando\obj\Debug\net5.0\FelhasznaloBaratBeadando.AssemblyInfo.cs
+E:\Repos\AlgoritmusokBeadando\FelhasznaloBaratBeadando\obj\Debug\net5.0\FelhasznaloBaratBeadando.csproj.CoreCompileInputs.cache
+E:\Repos\AlgoritmusokBeadando\FelhasznaloBaratBeadando\obj\Debug\net5.0\FelhasznaloBaratBeadando.dll
+E:\Repos\AlgoritmusokBeadando\FelhasznaloBaratBeadando\obj\Debug\net5.0\refint\FelhasznaloBaratBeadando.dll
+E:\Repos\AlgoritmusokBeadando\FelhasznaloBaratBeadando\obj\Debug\net5.0\FelhasznaloBaratBeadando.pdb
+E:\Repos\AlgoritmusokBeadando\FelhasznaloBaratBeadando\obj\Debug\net5.0\FelhasznaloBaratBeadando.genruntimeconfig.cache
+E:\Repos\AlgoritmusokBeadando\FelhasznaloBaratBeadando\obj\Debug\net5.0\ref\FelhasznaloBaratBeadando.dll

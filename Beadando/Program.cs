@@ -62,7 +62,7 @@ namespace Beadando
                 {
                     lm = i;
                 }
-                if (Futok[i + 1].I > Futok[dict.Keys.ElementAt(Count)].E)
+                if (Futok[i + 1].I > Futok[dict.Keys.ElementAt(Count)].E && Futok[dict.Keys.ElementAt(Count)].E >= Futok[lm].I && !dict.ContainsKey(lm))
                 {
                     Count++;
                     dict.Add(lm, Futok[lm].ID);
